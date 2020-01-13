@@ -1,1 +1,6 @@
-我是刘永吉,我要上传到dev分支:
+我是刘永吉,我要上传到dev分支:,
+for(let i = 0; i < 10; i ++) {
+setTimeout(function() {
+	console.log(i)
+})
+}
