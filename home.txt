@@ -3,4 +3,6 @@ for(let i = 0; i < 10; i ++) {
 setTimeout(function() {
 	console.log(i)
 })
-}
+
+
+好的，我已经修改了，请求合并
