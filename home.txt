@@ -1,6 +1,6 @@
 我是刘永吉,我要上传到dev分支:,
 for(let i = 0; i < 10; i ++) {
-setTimeout(function() {
+setTimeout(function() {t
 	console.log(i)
 })
 
@@ -11,16 +11,6 @@ setTimeout(function() {
 
 我是主分支，我上传了最新代码
 
-
-我是天荣，我上传了代码，请求合并
-
-<<<<<<< HEAD
-
-我天荣，我改了代码
-
-
-我天荣，我改了代码，
-我是项目组长，我上传了代码，我允许上传
 
 我又上传了，烦请组长合并一下代码
 
